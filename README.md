@@ -3,7 +3,12 @@
 ###
 
 <p align="left">🔭 I am currently studying systems and computer engineering at Universidad Católica De Colombia.<br>👯 I am looking to collaborate in whatever way I can.<br>🌱 I'm currently learning software development.<br>📫 How to contact me adrianbohorquez0525@gmail.com</p>
+###   
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrxs01&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrxs01&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</div>
 ###
 
 <div align="left">
@@ -35,6 +40,10 @@
 ###
 
 <img align="right" height="150" src="https://giffiles.alphacoders.com/162/162534.gif"  />
+### 
+<div align="center">
+  <img src="https://github.com/Andrxs01/Andrxs01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -43,3 +52,4 @@
 </div>
 
 ###
+
